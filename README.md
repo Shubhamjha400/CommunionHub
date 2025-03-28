@@ -15,22 +15,7 @@ A React web application for discovering, filtering, and adding community events.
 
 ## 🚀 Live Demo  
 
-🔗 https://communionhub-events-app-narendrajethi.netlify.app/ _(Deployed on Netlify)_
-
-## 📂 Installation & Setup
-
-1. Clone the repository:  
-   ```sh
-   git@github.com:narendrajethi220/communionhub-event-app.git
-
-2. Navigate into the project directory
-   cd communionhub-event-app
-
-3. Install dependencies:
-   npm install
-
-4. Start the development server:
-   npm start
+🔗 https://communionhubeventapp.netlify.app/
 
 🎨 Technologies Used
     React.js
